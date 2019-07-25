@@ -1,0 +1,45 @@
+('Z:\\root\\Desktop\\Git '
+ 'Projects\\BackDoor\\[Backdoor]Target\\AllInOne\\build\\backdoor\\PKG-00.pkg',
+ {'BINARY': 1,
+  'DATA': 1,
+  'EXECUTABLE': 1,
+  'EXTENSION': 1,
+  'PYMODULE': 1,
+  'PYSOURCE': 1,
+  'PYZ': 0},
+ [('PYZ-00.pyz',
+   'Z:\\root\\Desktop\\Git '
+   'Projects\\BackDoor\\[Backdoor]Target\\AllInOne\\build\\backdoor\\PYZ-00.pyz',
+   'PYZ'),
+  ('struct',
+   'c:\\users\\root\\local settings\\application '
+   'data\\Programs\\Python\\python37-32\\lib\\struct.pyo',
+   'PYMODULE'),
+  ('pyimod01_os_path',
+   'c:\\users\\root\\local settings\\application '
+   'data\\Programs\\Python\\python37-32\\lib\\site-packages\\PyInstaller\\loader\\pyimod01_os_path.pyc',
+   'PYMODULE'),
+  ('pyimod02_archive',
+   'c:\\users\\root\\local settings\\application '
+   'data\\Programs\\Python\\python37-32\\lib\\site-packages\\PyInstaller\\loader\\pyimod02_archive.pyc',
+   'PYMODULE'),
+  ('pyimod03_importers',
+   'c:\\users\\root\\local settings\\application '
+   'data\\Programs\\Python\\python37-32\\lib\\site-packages\\PyInstaller\\loader\\pyimod03_importers.pyc',
+   'PYMODULE'),
+  ('pyiboot01_bootstrap',
+   'c:\\users\\root\\local settings\\application '
+   'data\\Programs\\Python\\python37-32\\lib\\site-packages\\PyInstaller\\loader\\pyiboot01_bootstrap.py',
+   'PYSOURCE'),
+  ('backdoor',
+   'Z:\\root\\Desktop\\Git '
+   'Projects\\BackDoor\\[Backdoor]Target\\AllInOne\\backdoor.py',
+   'PYSOURCE'),
+  ('backdoor.exe.manifest',
+   'Z:\\root\\Desktop\\Git '
+   'Projects\\BackDoor\\[Backdoor]Target\\AllInOne\\build\\backdoor\\backdoor.exe.manifest',
+   'BINARY')],
+ True,
+ False,
+ False,
+ [])
