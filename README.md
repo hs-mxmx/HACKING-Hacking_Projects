@@ -5,7 +5,8 @@ Python Hacking Projects (Network Scanner, Mac Changer, Sniffers, ARP Spoofing, B
 Contains several tools and programs to scan, attack and detect dangerous variations on the network.
 - ARP_Spoofing: Allows to perform an attack (MitM) on a local Network, ([+] Needs to Set up IPtables)
     -> iptables -I OUTPUT -j NFQUEUE --queue-num 0  (0 is set by me on code)
-    -> iptables -I INPUT -j NFQUEUE --queue-num 0  
+    -> iptables -I INPUT -j NFQUEUE --queue-num 0
+    -> echo 1 > /proc/sys/net/ipv4/ip_forward
 - ARP_Spoof_Detector: Allows to detect and scan the packets send and recieved in case we are getting hijacked
 - DNS_Spoof (Test): Allows to spoof the DNS to redirect the current target to another ip/website
 - Net_Cut: Test for another projects
